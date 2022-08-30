@@ -61,7 +61,7 @@ SETUP and INIT
 | ------- | ----------- |
 `git config --global user.email "[github email]"` | It will set the your email <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
 ` git init` | initializes a Git repository <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png)
-` +git clone url`  |create local copy of remote repository(URL)  <br> [eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   [eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
+` git clone url`  |create local copy of remote repository(URL)  <br> [eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   [eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
 ---
 STAGE AND SNAPSHOT
 ---

@@ -1,3 +1,1 @@
-## demo file
-
-commands
+# GITHUB COMMANDS

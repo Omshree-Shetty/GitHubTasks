@@ -1,3 +1,3 @@
-## demo file
-
-commands
+# KT PLAN
+## DAY 1
+### GITHUB COMMANDS

@@ -59,17 +59,10 @@ SETUP and INIT
 
 | Command |  Description |
 | ------- | ----------- |
-<<<<<<< HEAD:README.md
-`git config --global user.name "[username]"` | It will set the your username <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
-`git config --global user.email "[github email]"` | It will set the your email <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
-` git init` | initializes a Git repository <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png)
-` +git clone url`  |create local copy of remote repository(URL)  <br> [eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   [eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
-=======
 `git config --global user.name "[username]"` | It will set the your username <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
 `git config --global user.email "[github email]"` | It will set the your email <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
 ` git init` | initializes a Git repository <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png)
 ` git clone url`  |create local copy of remote repository(URL)  <br> ![eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   ![eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
->>>>>>> aaf42c3c092bf74e2495d3135e4150bde59ee241:KT-PLAN.md
 ---
 STAGE AND SNAPSHOT
 ---
@@ -164,8 +157,4 @@ Unordered List	   | - First item <br> - Second item <br> - Third item
 Code	| To reference snippets of code we start and end the code with backticks <br>eg: `code`  
 Horizontal Rule	| To split blocks of texts visually we use 3 or more hyphens/asterisks/underscore <br>eg ---  
 Link	| Wrap link text in brackets [ ], and then wrap the URL in parentheses ( ) <br>eg: [title](https://www.example.com)
-<<<<<<< HEAD
 Image	| Start with ! followed by alt text in [] and URl in () <br>eg: ![alt text](image.jpg)
-=======
-Image	| Start with ! followed by alt text in [] and URl in () <br>eg: ![alt text](image.jpg)
->>>>>>> 5e1f3eb100248b58ee1d2097d3ed3a1854f59953

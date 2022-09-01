@@ -59,22 +59,22 @@ SETUP and INIT
 
 | Command |  Description |
 | ------- | ----------- |
-`git config --global user.name "[username]"` | It will set the your username <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
-`git config --global user.email "[github email]"` | It will set the your email <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
-` git init` | initializes a Git repository <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png)
-` git clone url`  |create local copy of remote repository(URL)  <br> [eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   [eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
+`git config --global user.name "[username]"` | It will set the your username <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
+`git config --global user.email "[github email]"` | It will set the your email <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
+` git init` | initializes a Git repository <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png)
+` git clone url`  |create local copy of remote repository(URL)  <br> ![eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   ![eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
 ---
 STAGE AND SNAPSHOT
 ---
 ---
 | Command |  Description |
 | ------- | ----------- |
-`git status`    |  show status   <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/15-1.png)
-`git add [file]`    | add a file as it looks now to your next commit (staging area) <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/5-4.png)
+`git status`    |  show status   <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/15-1.png)
+`git add [file]`    | add a file as it looks now to your next commit (staging area) <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/5-4.png)
 `git add .` | adds all the files to staging area
-`git reset [file]` |unstage a file while retaining the changes in working directory <br>[eg](https://static.javatpoint.com/tutorial/git/images/git-reset3.png)
-`git diff` |diff of what is changed  <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/9-2.png)
-`git commit -m “[descriptive message]”` | commit your staged content as a new commit snapshot   <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/7-3.png)
+`git reset [file]` |unstage a file while retaining the changes in working directory <br>![eg](https://static.javatpoint.com/tutorial/git/images/git-reset3.png)
+`git diff` |diff of what is changed  <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/9-2.png)
+`git commit -m “[descriptive message]”` | commit your staged content as a new commit snapshot   <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/7-3.png)
 `git commit -am "[description message]"` | adds and commits together(only applicable to the files that are already pushed on remote repo) 
 ---
 BRANCH
@@ -82,27 +82,27 @@ BRANCH
 ---
 | Command |  Description |
 | ------- | ----------- |
-`git branch` |list your branches. a * will appear next to the currently active branch  <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/23.png)
-`git branch -d [branch name]` | deletes the branch  <br>[eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/25.png) [eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand14.png)
-`git branch [branch name]` | creates a new branch <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/24.png)
-`git checkout -b [branch name]` |create a new branch and switch to it <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/28.png)
-`git checkout` |switch to another branch <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/27.png)
+`git branch` |list your branches. a * will appear next to the currently active branch  <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/23.png)
+`git branch -d [branch name]` | deletes the branch  <br>![eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/25.png) ![eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand14.png)
+`git branch [branch name]` | creates a new branch <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/24.png)
+`git checkout -b [branch name]` |create a new branch and switch to it <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/28.png)
+`git checkout` |switch to another branch <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/27.png)
 `git branch -m [old branch name] [new branch name]` | rename a local branch 
-`git merge [branch name]` | merge the specified branch into active branch  <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/31-1.png)
-`git merge [source branch] [target branch]` | merge a branch into a target branch <br> [eg](https://intellipaat.com/mediaFiles/2019/07/GItCommand25.png)
-`git log`| show all commits in the current branch’s history<br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/18-768x293.png)
+`git merge [branch name]` | merge the specified branch into active branch  <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/31-1.png)
+`git merge [source branch] [target branch]` | merge a branch into a target branch <br> ![eg](https://intellipaat.com/mediaFiles/2019/07/GItCommand25.png)
+`git log`| show all commits in the current branch’s history<br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/18-768x293.png)
 ---
 UPDATE
 ---
 ---
 | Command |  Description |
 | ------- | ----------- |
-`git remote add [alias] [url]` |add a git URL as an alias <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/32.png)  
-`git fetch [alias]` | fetch down all the branches from that Git remote  <br>[eg](https://intellipaat.com/mediaFiles/2019/07/GItCommand27.png)
-  `git push [alias(origin)] [branch name]` | push branch to the remote repository  <br> [eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/33.png)
+`git remote add [alias] [url]` |add a git URL as an alias <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/32.png)  
+`git fetch [alias]` | fetch down all the branches from that Git remote  <br>![eg](https://intellipaat.com/mediaFiles/2019/07/GItCommand27.png)
+  `git push [alias(origin)] [branch name]` | push branch to the remote repository  <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/33.png)
 `git push -u origin [branch name]` | push changes to remote repo and remembers the branch  <br> _-u: upstream_
-`git pull` | fetch and merge any commits from the remote repository to local repository <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/38.png)
-`git rm [file name]` | This command will delete the file- <br>[eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/16-2.png)
+`git pull` | fetch and merge any commits from the remote repository to local repository <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/38.png)
+`git rm [file name]` | This command will delete the file- <br>![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/16-2.png)
 
 ---
 

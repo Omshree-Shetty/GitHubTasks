@@ -176,3 +176,24 @@ Code | To reference snippets of code we start and end the code with backticks <b
 Horizontal Rule | To split blocks of texts visually we use 3 or more hyphens/asterisks/underscore <br>eg ---  
 Link | Wrap link text in brackets [ ], and then wrap the URL in parentheses ( ) <br>eg: [title](https://www.example.com)
 Image | Start with ! followed by alt text in [] and URl in () <br>eg: ![alt text](image.jpg)
+
+
+---
+
+# **DAY 2**
+
+what is terraform
+why do we use terraform
+features of terrform
+object types in teraform
+workflow
+lifecycle rules
+registry.io
+sentinal
+data types
+precedence of variable inputs
+
+syntax of blocks
+important commands
+
+

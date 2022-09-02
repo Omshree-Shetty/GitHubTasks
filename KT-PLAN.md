@@ -72,7 +72,7 @@ SETUP and INIT
 | ------- | ----------- |
 `git config --global user.name "[username]"` | It will set the your username <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
 `git config --global user.email "[github email]"` | It will set the your email <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/1-9.png)
-`git init` | initializes a Git repository <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png) <BR> you can find the url ![here](https://media.geeksforgeeks.org/wp-content/cdn-uploads/72.png) or click on dropdown from code url ![this](KT-PLAN.md/Images/code_url.PNG) 
+`git init` | initializes a Git repository <br> ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/2-6.png) <BR> you can find the url ![here](https://media.geeksforgeeks.org/wp-content/cdn-uploads/72.png) or click on dropdown from code url ![this](https://github.com/Omshree-Shetty/GitHubTasks/blob/main/Images/code_url.PNG) 
 `git clone url`  |create local copy of remote repository(URL)  <br> ![eg1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/4-4.png)   ![eg2](https://intellipaat.com/mediaFiles/2019/07/GItCommand12.png)
 ---
 

@@ -84,7 +84,7 @@ STAGE AND SNAPSHOT
 | ------- | ----------- | ----------- |
 `git status`    |  show status of git  | ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/15-1.png)
 `git add [file]`    | add a file as it looks now to your next commit (staging area) | ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/5-4.png)
-`git add .` | adds all the files to staging area | 
+`git add .` | adds all the files to staging area | This is how add .  works <br>![add](/Images/add.PNG)
 `git reset [file]` |unstage a file while retaining the changes in working directory | ![eg](https://static.javatpoint.com/tutorial/git/images/git-reset3.png)
 `git diff` |diff of what is changed  between the states | ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/9-2.png)
 `git commit -m “[descriptive message]”` | commit your staged content as a new commit snapshot |   ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/7-3.png)
@@ -135,10 +135,12 @@ Forking a repository allows you to freely experiment with changes without affect
 It is a concept of making copy of the main repository to your account so that you can make modifications in it. You can Submit pull request to the main repository with the modifications. It will make sure that the main repository is prevented from unwanted changes.
 Here is the icon of fork in github:
 
-![Eg](http://www.testingdocs.com/questions/wp-content/uploads/Fork-a-GitHub-Repository.png)
 
-Here is the second page after you click on fork button
-![fork page](/Images/fork.PNG)
+![fork_button](http://www.testingdocs.com/questions/wp-content/uploads/Fork-a-GitHub-Repository.png)
+
+Here is the second page after you click on fork button 
+<br>
+![fork_page](/Images/fork.PNG)
 ___
 
 <h2><span style="color:lightblue">What is merge conflict and how to resolve it? :thinking: </span></h2>

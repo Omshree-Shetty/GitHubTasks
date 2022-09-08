@@ -88,7 +88,7 @@ STAGE AND SNAPSHOT
 `git reset [file]` |unstage a file while retaining the changes in working directory | ![eg](https://static.javatpoint.com/tutorial/git/images/git-reset3.png)
 `git diff` |diff of what is changed  between the states | ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/9-2.png)
 `git commit -m “[descriptive message]”` | commit your staged content as a new commit snapshot |   ![eg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/07/7-3.png)
-`git commit -am "[description message]"` | adds and commits together(only applicable to the files that are already pushed on remote repo) | 
+`git commit -am "[description message]"` | adds and commits together(only applicable to the files that are already pushed on remote repo) | ![am](/Images/am.PNG)
 ---
 
 BRANCH

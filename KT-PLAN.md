@@ -1073,10 +1073,140 @@ __Follow-up Intents__
 The Follow-up Intents can be used to create contexts automatically for the pairs of intents. A follow-up intent means a child of the intent of its associated parent. When the follow-up intent is created, then automatically an output context will be added to the parent intent, and in the follow-up intent, the input context having a similar name will be added. A follow-up intent is matched only in one situation, and the situation is, if the parent intent is in the turn of previous conversational. Multiple levels nested follow-up intents can also be created in the Dialogflow.
 
 ---
+---
 # **DAY 6**
 
 <h2><span style="color:lightblue"> What is Agile Framework? :thinking: </span> </h2>
 
-info abt agile framework
-why agile is used
-scrum what it is wht it does 
+Agile is a project management approach developed as a more flexible and efficient way to get products to market. The word ‘agile’ refers to the ability to move quickly and easily. Therefore, an Agile approach enables project teams to adapt faster and easier compared to other project methodologies. 
+
+The Agile methodology is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through a process of planning, executing, and evaluating. Continuous collaboration is vital, both with team members and project stakeholders.
+
+Agile project management works off the basis that a project can be continuously improved upon throughout its life cycle, with changes being made quickly and responsively.
+
+Agile's four main values are:
+
+  - Individuals and interactions over processes and tools: <br>This gives a development centric/client centric environment. The people/end-users are given more importance.
+
+  - Working software over comprehensive documentation:<br>Here the individual is more concerned about the application, how it works, how much it has developed rather than the internal documentation which could be 100-150 pages of codes on how the application was build. In short Development is given more importance than documentation.
+
+  - Customer collaboration over contract negotiation:<br>Customer inputs/feedbacks matter during the production of the software/application
+
+  - Responding to change over following a plan:<br>Agile works on feedback. Since the application has been divided in chunks so it gets easy to modify the changes.
+
+Agile is one of the most popular approaches to project management due to its flexibility, adaptability to change, and high level of customer input. Agile model works in different iterations instead of huge chunk of application. 
+
+Iterations are basically set of tasks that you have to work on in a particular sprint.
+
+![agile](https://kruschecompany.com/wp-content/uploads/2021/06/AdobeStock_255546088-1280x595.png)
+
+Agile has a high level of customer involvement and includes frequent reviews of progress with both the project team and the customer. 
+
+---
+<h2><span style="color:lightblue"> Who should use Agile Framework? :thinking: </span> </h2>
+
+The benefits of Agile project management are many, particularly for the following organizations and project types:
+
+- Any project that evolves or does not have clear scope and requirements at the start, 
+- Organizations that work in a fast-changing environment, such as technology 
+- Organizations that need to work closely with their customers and other external parties throughout the life of the project
+- Companies that emphasize process and product improvement and are constantly looking to innovate
+- Projects with many interdependent tasks, where the team needs to work closely and frequently communicate to ensure success 
+- Projects that require rapid feedback from stakeholders about each product iteration before moving on to the next version or draft
+
+---
+<h2><span style="color:lightblue"> Benefits of adopting Agile method? :thinking: </span> </h2>
+
+1. Continuous customer contact:
+Traditional project management methods generally only had the project team in touch with the customer at the start and end of the project. If customer requirements or expectations were not captured correctly in the beginning or changed over time, the project team had no idea until it was too late.<br>
+With Agile, there’s ongoing contact throughout the entire process and iterative deliveries to ensure your team is on track, so the end product will be exactly what the customer wants.
+
+2. The ability to adapt :
+What if your customer told you halfway through a project that they needed a scope change? Using a traditional approach to project management, this either couldn’t be accommodated or likely involved significant increases to both the project cost and schedule.
+<br>With Agile, you can incorporate changes with minimal effort, no matter how far along in the project.   
+
+3. Faster delivery:
+Agile incorporates a continuous development approach that ensures your team is continuously delivering workable products. Instead of waiting for six to 12 months or longer for an end product, your client is getting a working version of the product at much shorter intervals, typically every two to four weeks. 
+
+4. Lower project risk:
+Your team is developing versions of the product regularly and getting customer feedback early on, minimizing the risk of a project failing. Breaking a large project into iterations reduces your risk of an iteration or draft failure. You’re more likely to find small problems early that can be addressed quickly, rather than discovering a large issue only at the time of final testing before the end delivery. If later you encounter a problem or need to cancel the project, you’ll have invested less time and money.
+
+5. Ongoing innovation:
+Agile supports collaboration and continuous improvement, both of which can lead to innovation and the development of new products and features. Co-locating teams and having daily meetings encourages brainstorming and idea creation. 
+<br>Agile supports an “idea meritocracy” where the best idea wins out, no matter who it comes from. The project team, other stakeholders, and the customer can figure out functionality and features together. 
+
+---
+<h2><span style="color:lightblue"> Agile team: Key roles and responsibilities :thinking: </span> </h2>
+
+An Agile team structure will commonly outline specific roles for each team member. While the focus is on a person’s skill set rather than their job title, a defined set of roles can create clarity in Agile workflows. 
+
+Here are some of the key roles in an Agile team structure:
+- __Team lead/Scrum Master__: <br> A team lead is responsible for coordinating the team and ensuring that processes run smoothly. They will organize incoming requests, manage tasks, monitor workflows, and host meetings. They will also ensure the team is following the principles as outlined in the Agile Manifesto. In Scrum, a team lead is known as a Scrum master. The Scrum master is responsible for arranging the daily meetings, improving team interactions, and maximizing productivity. <br>The Agile project manager’s roles and responsibilities often include the position of Scrum master. However, they can delegate this to anyone on the team who’s a Scrum expert and a strong facilitator. 
+
+- __Product owner__: <br>A product owner represents the needs of the client. Their job is to clearly outline the customer requirements and ensure they are met throughout the Agile project life cycle. They will communicate regularly with the team, offering guidance on features to include and informing them of what needs to be prioritized. This person has the ultimate authority over the final product. The product owner’s job is to ensure product requirements, functionality, and priorities are understood and achieved.
+
+- __Team member__:<br>Team member is a broad term that can denote a number of different roles across different industries. For example, an Agile development team will be made up of programmers, UX designers, software developers, and quality assurance testers. A digital marketing team, on the other hand, could include copywriters, editors, PPC managers, SEO specialists, and more. All of these people can be referred to as team members in an Agile team structure.
+
+- __Stakeholder__:<br>A stakeholder is not directly involved in the project activities, but they play an important role in determining the final deliverables. Stakeholders will liaise regularly with the team lead, product owner, and team members to offer input into the development process. Their feedback could significantly influence the end result of the project. Stakeholder examples include end-users, investors, and senior company executives. 
+
+---
+<h2><span style="color:lightblue"> All about Sprints</span> </h2>
+
+Scrum entails an iterative approach to project management. The Scrum methodology prescribes breaking a project down into sprints that typically only last one to four weeks. Each sprint ends with the completion of a workable version or draft of the final project deliverable. 
+
+The sprint duration is always fixed. That ensures developers and users can regularly review the project’s direction and keep it on track. However, it also means that a project can run over schedule, unless developers decide to reduce its scope and ambition.
+
+
+## __What is the sprint cycle?__
+
+A sprint cycle is the repeatable process you’ll go through every time you manage and plan a sprint. The steps of the process will stay the same—what will change are the insights you learn at the end of a sprint and how you apply them to make the next sprint even more effective.
+
+There are four stages that the project manager takes ownership of within each sprint, including sprint planning, check-ins, reviews, and retrospectives.
+
+### __Sprint planning__:
+Setting up a sprint requires proper sprint planning. The project manager gathers the team to determine how much work can be completed within one sprint. It’s important that there is enough work to fill the time span, but not too much. Not planning enough work can derail the project and lead to budget and timeline overages. Planning to accomplish too much can lead to team burnout and missed deadlines.
+
+Ideally, your planning should take place in a centralized work management platform, like Workfront. Opt for a system that allows you to follow an Agile approach to your projects and offers a work board for hosting sprints and backlogged tasks.
+
+### __Daily Scrum__:
+Also known as stand-up meetings, daily Scrum meetings ensure sprints are running on schedule and all team members are in the loop when problems pop up. Sprint stand-ups typically only last 15 minutes and require each team member to discuss what they’ve accomplished since the last meeting, what they’ll work on before the next meeting, and if any obstacles are standing in their way.
+Daily stand-ups should be quick touch points. If more in-depth meetings are required, they should be scheduled outside of stand-ups.
+
+### __Sprint review:__
+Once a sprint is completed, the project manager hosts a sprint review meeting with all team members and stakeholders to demonstrate sprint outputs, determine what was accomplished and what wasn’t, and review project forecasts. Untested or incomplete work is not shown, but is instead saved for the next sprint’s planning round.
+
+### __Sprint retrospective:__
+The final step in the sprint management process is the sprint retrospective. This takes place after the sprint review and before the next sprint planning session. This collaborative session allows team members to discuss accomplishments and challenges during the previous sprint so that processes can be altered, if needed. The goal is to fix one thing at a time and make small, incremental changes from sprint to sprint.
+
+---
+<h2><span style="color:lightblue"> What is SAFe? :thinking: </span> </h2>
+
+SAFe stands for Scaled Agile Framework, and it is a knowledge base used by development teams to implement Agile principles into large organizations. It adjusts the best practices of Agile project management to make the methodology work for bigger teams.
+
+SAFe incorporates knowledge from four different areas: Agile development, Lean product development, systems thinking, and DevOps. It blends Lean and Agile practices and applies them at an enterprise level to increase business agility and assist organizations as they grow in size. 
+
+SAFe is divided into three segments: team, program, and portfolio. The framework offers guidance to organizations to work across these levels.:
+
+- __Portfolio level:__ We’ll start with the portfolio level, which is the highest level of concern in SAFe and is the scope of responsibility of the organization’s management staff.<br> A portfolio is a number of value streams. Value streams budgeting and implementation is discussed at the portfolio level. A Backlog with Business Epics is generated at this level. Software testing and developing teams have nothing to do here so we won’t dwell on it a lot.
+
+- __Team level__:
+At the team level we deal with traditional agile teams and Scrum processes. There is a backlog with user stories. When planning a sprint, teams define work and efforts necessary to meet their sprint obligations. Once the two-week sprint is over, the team meets for Sprint Review, or Demo, and demonstrates some scope of functioning software that can be released. Daily meeting also take place.
+
+- __Program level__:
+The program level is where most of the SAFe differences from Scrum lie. First of all, the size of the development team is larger. The whole team is made up of the usual sprint teams that are applied to the ongoing development mission. The whole team in SAFe is called Team of Teams and can be composed of 50-125 specialists.<br>
+The goal of the team is to deliver a Potentially Shippable Increment. “Potentially Shippable” is about the quality of the software, not its marketability. It should be free of defects and possess release quality. PSI is delivered during five sprints.
+
+---
+## __SAFe Agile Core Values__:
+The SAFe Agile methodology is based on these four values:
+- __Alignment:__ <br>SAFe supports alignment.<br>When companies are scaling Agile, all teams must be aligned across the organization and working towards the same goal. This is particularly vital for geographically dispersed teams where misalignment can hinder an organization’s ability to react to change. SAFe supports alignment by clearly outlining team roles and synchronizing activities, enabling organizations to keep up with competitors.
+
+- __Built-in Quality__:<br>SAFe promotes a high standard of quality, ensuring that it remains a priority rather than an afterthought. It ensures that every incremental delivery reflects the quality standards.<br>Built-in quality is mandatory. Building these quality standards into the development life cycle is important, especially in a large-scale system where untested batches can pile up quickly.
+
+- __Transparency:__<br>Transparency is crucial to building trust in teams and creating an open environment in an organization. Transparency is the enabler for trust. <br> SAFe helps the enterprise to achieve transparency at all levels- Executives, Portfolio Managers, and other stakeholders.<br> SAFe promotes transparency by ensuring full visibility into team backlogs, clearly outlining goals, and breaking workloads down into short-term commitments so obstacles can be spotted quickly.
+
+- __Program Execution:__<br>Producing working software is a central tenet of SAFe and, indeed, Agile itself. SAFe places great focus on working systems and resultant business outcomes. Teams must be able to execute programs successfully to provide real business value. This is why SAFe places a huge emphasis on reliable systems that consistently deliver profitable outcomes.
+
+SAFe is not useful if teams can’t execute and continuously deliver value.
+
+---

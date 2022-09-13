@@ -485,7 +485,7 @@ Let's take a look at the optional arguments inside the variable block.
 
 eg:
 
-`variable "billing_tag" {}`
+> `variable "billing_tag" {}`
 
 or
 ```
@@ -499,11 +499,11 @@ variable "aws_region"{
 
 __Variable Reference:__
 
-var.<name_label>
+`var.<name_label>`
 
 eg:
 
-var.aws_region
+`var.aws_region`
 
 ---
 ## LOCALS
@@ -757,8 +757,6 @@ Map (Key = "value")|  {  <br> small = "t2.micro" <br>  medium = "t2.small" <br> 
 Object | list(object(<br>{<br>name = string<br> age = number<br>}<br>)<br>) | var.<object_name>
 ---
 
-
----
 ---
 # **DAY 4**
 

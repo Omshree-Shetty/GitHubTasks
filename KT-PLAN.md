@@ -836,7 +836,7 @@ Service control policies must be version controlled and follow an InfoSec approv
 
 ---
 ---
-# **DAY 4**
+# **DAY 5**
 <h2><span style="color:lightblue">What is GCP(Google Cloud Platform? :thinking:</span> </h2> 
 
 GCP is a public cloud vendor that offers a suite of computing services to do everything from data management to delivering web and video over the web to AI and machine learning tools. Customers are able to access computer resources housed in Google’s data centers around the world for free or on a pay-per-use basis.
@@ -1073,3 +1073,10 @@ __Follow-up Intents__
 The Follow-up Intents can be used to create contexts automatically for the pairs of intents. A follow-up intent means a child of the intent of its associated parent. When the follow-up intent is created, then automatically an output context will be added to the parent intent, and in the follow-up intent, the input context having a similar name will be added. A follow-up intent is matched only in one situation, and the situation is, if the parent intent is in the turn of previous conversational. Multiple levels nested follow-up intents can also be created in the Dialogflow.
 
 ---
+# **DAY 6**
+
+<h2><span style="color:lightblue"> What is Agile Framework? :thinking: </span> </h2>
+
+info abt agile framework
+why agile is used
+scrum what it is wht it does 

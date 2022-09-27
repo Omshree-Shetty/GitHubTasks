@@ -1210,3 +1210,5 @@ The SAFe Agile methodology is based on these four values:
 SAFe is not useful if teams can’t execute and continuously deliver value.
 
 ---
+
+
